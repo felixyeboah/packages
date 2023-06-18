@@ -1,0 +1,15 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "for custom packages created by Felix Yeboah",
+  "author": {
+    "name": "Felix Nana Yaw Yeboah - Jefferson",
+    "email": "me@felixyeboah.dev"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hookform/resolvers": "^3.1.1",
+    "react-hook-form": "^7.45.0-next.1"
+  }
+}
